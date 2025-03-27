@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+scikit-learn
+onnxruntime
+librosa
+opencv-python
+numpy
+joblib
+opencv-python-headless
